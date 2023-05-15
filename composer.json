@@ -1,0 +1,6 @@
+{
+    "name": "quoclt/hello-world",
+    "require": {
+        "monolog/monolog": "2.0.*"
+    }
+}
